@@ -1,10 +1,6 @@
 # ChatApp
 A simple Java chat application with GUI for client-server communication.
 
-# ChatApp
-
-A simple Java chat application with GUI for client-server communication.
-
 ## Features
 - Server GUI to handle client connections and display logs.
 - Client GUI for sending and receiving messages in real-time.
