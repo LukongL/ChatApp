@@ -16,7 +16,7 @@ A simple Java chat application with GUI for client-server communication.
    ```bash
    java -jar ChatServerGUI.jar
 
-## Usage - Communication in the Same Office Space
+## Example Usage - Communication in the Same Office Space
 
 Network Setup
 
