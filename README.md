@@ -1,5 +1,24 @@
 # ChatApp
-A simple Java chat application with GUI for client-server communication.
+A real-time chat application built with Java, featuring WebSocket communication for instant messaging. Designed for desktop users with a clean Swing-based UI. It facilitates seamless text-based interaction between users, making it an ideal tool for small-scale environments like office spaces or local networks.
+
+Real-Time Messaging:
+
+Users can exchange messages in real time using the application.
+Messages sent by one user are instantly delivered to all other connected users via the server.
+
+Client-Server Architecture:
+
+The server manages all client connections and ensures smooth message broadcasting or routing.
+The clients connect to the server and send/receive messages through an intuitive GUI.
+
+Multithreading for Concurrent Users:
+
+The server supports multiple simultaneous connections, allowing a group of users to communicate effectively.
+
+Graphical User Interface:
+
+Both the client and server components feature user-friendly GUIs, making the application accessible for non-technical users.
+
 
 ## Features
 - Server GUI to handle client connections and display logs.
