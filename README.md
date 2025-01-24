@@ -16,11 +16,16 @@ A simple Java chat application with GUI for client-server communication.
 
 Network Setup
 
-If all devices (server and clients) are connected to the same local network (LAN) and java installed, communication is straightforward.
-The server should run on a local machine, and clients can connect using the server's local IP address and port.
+  *All devices (server and clients) should connected to the same local network (LAN) and java installed.
+
+  The server should run on a local machine, and clients can connect using the server's local IP address and port.
+
 Steps to Set It Up
 
-Start the server application (ChatServerGUI.jar) on one machine.
-Obtain the local IP address of the server machine (e.g., 192.168.x.x).
-Configure the client application (ChatClientGUI.jar) on other machines to connect to this IP address and port.
-Launch the client applications, and users in the same office space can chat.
+  Start the server application (ChatServerGUI.jar) on one machine.
+
+  Obtain the local IP address of the server machine (e.g., 192.168.x.x).
+
+  Configure the client application (ChatClientGUI.jar) on other machines to connect to this IP address and port.
+
+  Launch the client applications, and users in the same office space can chat.
